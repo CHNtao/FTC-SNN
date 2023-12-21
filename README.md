@@ -20,6 +20,6 @@ This paper has been submitted to ***Neurocomputing***. The complete code will be
 *  [N-Caltech101](https://www.garrickorchard.com/datasets/n-caltech101)
 
 ## TO DO
-
-
+The complete layers.py/models.py/train.py script will be release soon.
+* This inference weight is to reproduce 83.70% on DVS-CIFAR10 with VGGSNN.[Inference model](https://drive.google.com/file/d/1rNShvG9R2xKhRVCICzV-I2dg-hTVrNvE/view?usp=drive_link)
 

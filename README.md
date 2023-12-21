@@ -3,7 +3,7 @@
 
 
 
-This paper has been submitted to ***Science China Information Science***. The complete code will be made public when our paper is accepted.
+This paper has been submitted to ***Neurocomputing***. The complete code will be made public when our paper is accepted.
 
 
 ## Requirements
